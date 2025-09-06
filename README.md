@@ -2,7 +2,7 @@
 
 A modern, feature-rich food delivery app built with React Native and Expo.
 
-## 🚀 Features
+##  Features
 
 ### Core Features
 - **Onboarding Experience**: Beautiful animated onboarding with swipeable intro pages
@@ -25,7 +25,7 @@ A modern, feature-rich food delivery app built with React Native and Expo.
 - **FlatList Optimization**: Efficient rendering of food items and categories
 - **Image Loading**: Dynamic image loading from external sources
 
-## 📦 Tech Stack
+##  Tech Stack
 
 - **React Native**: Cross-platform mobile development
 - **Expo**: Development platform and tools
@@ -35,7 +35,7 @@ A modern, feature-rich food delivery app built with React Native and Expo.
 - **Expo Vector Icons**: Icon library
 - **React Native Maps**: Map integration (for delivery tracking)
 
-## 🛠 Installation & Setup
+##  Installation & Setup
 
 1. **Clone the repository**
    ```bash
@@ -58,7 +58,7 @@ A modern, feature-rich food delivery app built with React Native and Expo.
    - Scan the QR code displayed in the terminal
    - Or press 'i' for iOS simulator, 'a' for Android emulator
 
-## 📱 App Screens
+##  App Screens
 
 ### 1. Onboarding Screen
 - Welcome animation with logo scaling
@@ -96,7 +96,7 @@ A modern, feature-rich food delivery app built with React Native and Expo.
 - Estimated delivery time
 - Order again functionality
 
-## 🎨 Design System
+## Design System
 
 ### Color Palette
 - **Primary Orange**: `#FF6B35`
@@ -137,7 +137,7 @@ src/
     └── CartContext.js       # Global cart state management
 ```
 
-## 🔧 Configuration
+##  Configuration
 
 The app is configured for Expo Go with the following settings:
 - **App Name**: QuickBite
@@ -146,7 +146,7 @@ The app is configured for Expo Go with the following settings:
 - **Orientation**: Portrait
 - **Brand Colors**: Orange theme
 
-## 🚀 Development
+##  Development
 
 ### Adding New Food Items
 Edit `src/data/foodData.js` to add new categories, food items, or restaurants.
@@ -161,7 +161,7 @@ Each screen has its own StyleSheet with consistent design patterns. Global color
 - Add push notifications
 - Implement real-time order tracking
 
-## 📋 Requirements Met
+## Requirements Met
 
 ✅ Onboarding screen with logo animation and swipeable pages  
 ✅ Home screen with search, categories, and food grid  
@@ -177,6 +177,6 @@ Each screen has its own StyleSheet with consistent design patterns. Global color
 ✅ Static JSON data structure  
 ✅ Expo Go compatibility  
 
-## 📄 License
+##  License
 
 This project is created for demonstration purposes. Feel free to use and modify as needed.
