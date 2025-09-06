@@ -1,7 +1,3 @@
-# WARP.md
-
-This file provides guidance to WARP (warp.dev) when working with code in this repository.
-
 ## Project Overview
 
 QuickBite is a food delivery app built with React Native and Expo. It's a single-page mobile application with onboarding, food browsing, cart management, and order tracking features.
